@@ -8,7 +8,7 @@ Ocorrencia.csv: possui os dados sobre cada ocorrência registrada nos últimos 1
 Aeronave.csv: informações agrupadas sobre as aeronaves envolvidas nas ocorrências registradas no arquivo ocorrencia.csv. Aqui serão encontrados dados como: Modelo da Aeronave, Tipo de Aeronave, Fabricante, Quantidade de Fatalidades, dentre outras.
 
 ## Bibliotecas Utilizadas
-numpy 
-pandas 
-matplotlib
-seaborn
+* numpy 
+* pandas 
+* matplotlib
+* seaborn
